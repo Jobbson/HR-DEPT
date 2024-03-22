@@ -1,19 +1,49 @@
-HR-Dashboard-MySQL-PowerBI
-![HR DASHBOARD_page-0001](https://github.com/Jobbson/HR-DEPT/assets/69438695/0992de92-4582-46c1-a65d-80ef597ea281)
-Data Used
-Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
-Data Cleaning & Analysis - MySQL Workbench
+# Comprehensive Data Analysis Report: HR Dashboard 📊💼
 
-Data Visualization - PowerBI
 
-Summary of Findings
-There are more male employees
-White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
-A large number of employees work at the headquarters versus remotely.
-The average length of employment for terminated employees is around 8 years.
-The gender distribution across departments is fairly balanced but there are generally more male than female employees.
-The Marketing department has the highest turnover rate followed by Training. The least turn over rate are in the Research and development, Support and Legal departments.
-A large number of employees come from the state of Ohio.
-The net change in employees has increased over the years.
-The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
+
+
+
+### Introduction:
+The HR Dashboard project utilized HR data spanning from the year 2000 to 2020, comprising over 22,000 rows. This report presents key findings derived from data cleaning and analysis conducted in MySQL Workbench, followed by visualization using Power BI.
+
+
+## Key Achievements:
+
+
+
+### 🔍 Demographic Analysis:
+
+- Gender Distribution: Male employees outnumber female employees.
+- Race Diversity: White employees constitute the majority, while Native Hawaiian and American Indian employees are the least represented.
+- Work Location: A significant portion of employees work at the headquarters compared to remote locations.
+
+### 🔍 Employment Statistics:
+
+- Average Length of Employment: Terminated employees had an average tenure of around 8 years.
+- Gender Distribution by Department: While gender distribution is balanced across departments, there is a slight skew towards more male employees overall.
+- Turnover Rate by Department: Marketing and Training departments experience higher turnover rates, whereas Research and Development, Support, and Legal departments have lower turnover rates.
+
+### 🔍 Geographic Analysis:
+
+- Employee Origin: A substantial number of employees hail from Ohio.
+- Net Change in Employees: There has been an overall increase in the number of employees over the years.
+
+### 🔍 Departmental Tenure Analysis:
+
+- Average Tenure: The average tenure across departments is approximately 8 years.
+- Departmental Variances: Legal and Auditing departments have the highest average tenure, while Services, Sales, and Marketing departments have the lowest.
+
+
+### Conclusion:
+The HR Dashboard analysis provides valuable insights into employee demographics, employment statistics, turnover rates, geographical distribution, and departmental tenure. These findings can guide strategic decision-making processes aimed at enhancing employee retention, promoting diversity, and optimizing workforce management practices. Further exploration and action planning based on these insights are recommended to drive organizational growth and success.
+
+
+## 🛠 Skills and Tools
+my SQL, power BI, power query, Problem solving, DAX, Critical thinking, ...
+
+
+## Screenshots
+
+![Dashboard Screenshot](https://github.com/Jobbson/HR-DEPT/assets/69438695/0992de92-4582-46c1-a65d-80ef597ea281)
